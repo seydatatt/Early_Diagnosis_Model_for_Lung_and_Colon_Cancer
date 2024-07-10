@@ -8,7 +8,6 @@ This project is an Early Diagnosis Model for Lung and Colon Cancer, built using 
 - [Model](#model)
 - [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Introduction
